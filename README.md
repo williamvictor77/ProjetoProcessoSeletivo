@@ -1,2 +1,2 @@
 # ProjetoProcessoSeletivo
-Criação de mini crud utilizando json com bd. 
+Criação de mini crud utilizando json como bd. 
