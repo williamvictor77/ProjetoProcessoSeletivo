@@ -1,0 +1,194 @@
+body{
+	margin-top: 0;
+	margin-right: 0;
+	margin-left: 0;
+	background-color: #1C1F24;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+#logo{
+	width: 23%;
+	margin-left: 38%;
+	margin-top: 3%;
+}
+.email{
+	background-color: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: #1C1F24;
+	box-shadow: none;
+	width: 31%;
+	height: 20px;
+	margin-left: 33.5%;
+	margin-top: 8%;
+	font-size: 20px;
+	outline: 0;
+	color: white;
+	border-color: gray;
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 0.5%;
+	padding-top: 0.2%;
+	padding-left: 2.5%;
+}
+.email2{
+	background-color: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: #1C1F24;
+	box-shadow: none;
+	width: 31%;
+	height: 20px;
+	margin-left: 33.5%;
+	margin-top: 2%;
+	font-size: 20px;
+	outline: 0;
+	color: white;
+	border-color: gray;
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 0.5%;
+	padding-top: 0.2%;
+	padding-left: 2.5%;
+}
+.check{
+	width: 20px;
+	height: 20px;
+	border: 2px solid white;
+	border-radius: 20%;
+	margin-left: 33.5%;
+
+}
+.check input{
+	all: unset;
+    border-radius: 20%;
+  width: 14px;
+  height: 14px;
+  display: inline-block;
+  margin: 15%;
+	
+}
+.check input:checked{
+  background-color: #F5214D;
+  transition-duration: 0.5s;
+  transition-delay: 0s;
+
+}
+.lembrar{
+	color: white;
+	margin-left: 35.7%;
+	font-size: 120%;
+	margin-top: -1.6%;
+	position: absolute;
+}
+.recuperar{
+	text-decoration: none;
+	color: white;
+	font-size: 120%;
+	margin-left: 56%;
+	margin-top: -1.7%;
+	position: absolute;
+}
+.recuperar:hover{
+	text-decoration: none;
+	color: #F5214D;
+	font-size: 120%;
+	margin-left: 56%;
+	margin-top: -1.7%;
+	position: absolute;
+	transition-duration: 0.5s;
+  transition-delay: 0s;
+}
+.cadas{
+	margin-left: 40.8%;
+	color: white;
+	margin-top: 2%;
+	
+}
+.cadas a{
+	color: white;
+	text-decoration: none;
+}
+.cadas a:hover{
+	color: #F5214D;
+	text-decoration: none;
+	transition-duration: 0.5s;
+  transition-delay: 0s;
+}
+#dados-letra{
+	margin-left: 0%;
+	color: white;
+	text-align: center;
+	margin-top: 2.5%;
+
+}
+#dados-letra2{
+	margin-left: 0%;
+	color: white;
+	text-align: center;
+	margin-top: 1%;
+
+}
+.inputscadastro{
+	background-color: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: #1C1F24;
+	box-shadow: none;
+	width: 24%;
+	height: 15px;
+	margin-left: 37%;
+	font-size: 17px;
+	outline: 0;
+	color: white;
+	margin-top: 1%;
+	border-color: gray;
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 0.3%;
+	padding-left: 3%;
+}
+.cadeadorecuperar{
+width: 5%;
+margin-left: 47.4%;
+margin-top: 2%;
+}
+.inputscadastro2{
+	background-color: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: #1C1F24;
+	box-shadow: none;
+	width: 24%;
+	height: 15px;
+	margin-left: 37%;
+	font-size: 17px;
+	outline: 0;
+	color: white;
+	margin-top: 5%;
+	border-color: gray;
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 0.3%;
+	padding-left: 3%;
+}
+.vcestalogado{
+	width: 100%;
+	margin-top: 15%;
+	position: absolute;
+	text-align: center;
+	font-size: 150%;
+	justify-content: center;
+}
+
+.buttonsair a{
+	text-decoration: none;
+	color:  #F5214D;
+	margin-left: 0%;
+}
+.buttonsair a:hover{
+	color: #7B848B;
+	margin-left: 0%;
+	transition-duration: 0.5s;
+  transition-delay: 0s;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "williamvictorsilva@gmail.com",
+        "nome": "william victor silva barros",
+        "email": "williamvictorsilva@gmail.com",
+        "telefone": "91988234954",
+        "senha": "123",
+        "repetirsenha": "123"
+    },
+    {
+        "id": "maurofabiano1101@gmail.com",
+        "nome": "mauro fabiano da silva alves",
+        "email": "maurofabiano1101@gmail.com",
+        "telefone": "91982174582",
+        "senha": "elena123",
+        "repetirsenha": "elena123"
+    },
+    {
+        "id": "william123victorsilva@gmail.com",
+        "nome": "william victor silva barros",
+        "email": "william123victorsilva@gmail.com",
+        "telefone": "91988234954",
+        "senha": "123",
+        "repetirsenha": "123"
+    }
+]
